@@ -9,7 +9,7 @@
 ## 📝 Overview
 ### **Wallboard / Agent Notification**
  
-<img src="[https://github.com/iamkittis00/Team04_Term-project_Engce301/issues/1#issue-2934628174](https://github.com/iamkittis00/Team04_Term-project_Engce301/issues/1#issue-2934628174)" alt="Overview" width="600"/>
+<img src="https://github.com/iamkittis00/Team04_Term-project_Engce301/issues/1#issue-2934628174" alt="Overview" width="600"/>
 
 ---
 
