@@ -9,7 +9,7 @@
 ## 📝 Overview
 ### **Wallboard / Agent Notification**
  
-![Overview](img/Overview.mp4)
+![Overview](img/Overview.gif)
 
 ---
 
