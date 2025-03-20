@@ -23,7 +23,7 @@ const _nav = [
     icon: <CIcon icon={cilSpeedometer} customClassName="nav-icon" />,
     badge: {
       color: 'danger',
-      text: 'NEW!',
+      text: 'NEW 🔥',
     },
   },
   {
@@ -33,7 +33,7 @@ const _nav = [
     icon: <CIcon icon={cilSpeedometer} customClassName="nav-icon" />,
     badge: {
       color: 'danger',
-      text: 'NEW!',
+      text: 'NEW 🔥',
     },
   },
   {
