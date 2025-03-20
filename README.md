@@ -20,7 +20,7 @@
 <img src="" alt="ER Diagram" width="600"/>
 
 ### **📌 Activity Flow Diagram**
-<img src="" alt="Activity Flow" width="600"/>
+![Activity Flow](img/Activity Flow.jpg)
 
 ---
 
