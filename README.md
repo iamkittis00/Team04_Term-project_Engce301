@@ -14,10 +14,10 @@
 ---
 
 ### **📌 Data Flow Diagram (DFD)**
-![Data Flow Diagram](img/DFD.jpg)
+![Data Flow Diagram](img/DFD.JPG)
 
 ### **📌 ER Diagram**
-![ER Diagram](img/ERD.jpg)
+![ER Diagram](img/ERD.JPG)
 
 ### **📌 Activity Flow Diagram**
 ![Activity Flow](img/Activity%20Flow.jpg)
