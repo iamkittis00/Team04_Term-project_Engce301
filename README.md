@@ -43,7 +43,7 @@
 ---
 
 ## 🔗 API Specification
-📄 **API Documentation**: [Click Here] (API Specification/README.md)
+📄 **API Documentation**: [Click Here] (/API Specification/README.md)
 
 ---
 
